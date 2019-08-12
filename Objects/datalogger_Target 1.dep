@@ -1,0 +1,92 @@
+Dependencies for Project 'datalogger', Target 'Target 1': (DO NOT MODIFY !)
+F (.\accelerometer.c)(0x5D0A93FE)(--c99 --gnu -c --cpu Cortex-M0+ -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\Device\MKL25Z128xxx4-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include-IC:\Keil_v5\ARM\PACK\Keil\Kinetis_KLxx_DFP\1.15.0\Device\Include-IC:\Keil_v5\ARM\PACK\Keil\MDK-Middleware\7.7.0\Board-D__UVISION_VERSION="526" -D_RTE_ -DMKL25Z128xxx4-o .\objects\accelerometer.o --omf_browse .\objects\accelerometer.crf --depend .\objects\accelerometer.d)
+I (accelerometer.h)(0x5D1D15B5)
+I (C:\Keil_v5\ARM\PACK\Keil\Kinetis_KLxx_DFP\1.15.0\Device\Include\MKL25Z4.h)(0x585C16BA)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599F75EE)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include\core_cm0plus.h)(0x5B620B34)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include\cmsis_version.h)(0x5B1FD944)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5B58DE76)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5B620B34)
+I (.\RTE\Device\MKL25Z128xxx4\system_MKL25Z4.h)(0x5644B74A)
+I (i2c.h)(0x5CEEDC88)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x599F75EE)
+I (PIT.h)(0x5D0A8C77)
+F (.\i2c.c)(0x5CEEE02C)(--c99 --gnu -c --cpu Cortex-M0+ -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\Device\MKL25Z128xxx4-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include-IC:\Keil_v5\ARM\PACK\Keil\Kinetis_KLxx_DFP\1.15.0\Device\Include-IC:\Keil_v5\ARM\PACK\Keil\MDK-Middleware\7.7.0\Board-D__UVISION_VERSION="526" -D_RTE_ -DMKL25Z128xxx4-o .\objects\i2c.o --omf_browse .\objects\i2c.crf --depend .\objects\i2c.d)
+I (i2c.h)(0x5CEEDC88)
+I (C:\Keil_v5\ARM\PACK\Keil\Kinetis_KLxx_DFP\1.15.0\Device\Include\MKL25Z4.h)(0x585C16BA)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599F75EE)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include\core_cm0plus.h)(0x5B620B34)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include\cmsis_version.h)(0x5B1FD944)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5B58DE76)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5B620B34)
+I (.\RTE\Device\MKL25Z128xxx4\system_MKL25Z4.h)(0x5644B74A)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x599F75EE)
+F (.\main.c)(0x5D1FA9B4)(--c99 --gnu -c --cpu Cortex-M0+ -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\Device\MKL25Z128xxx4-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include-IC:\Keil_v5\ARM\PACK\Keil\Kinetis_KLxx_DFP\1.15.0\Device\Include-IC:\Keil_v5\ARM\PACK\Keil\MDK-Middleware\7.7.0\Board-D__UVISION_VERSION="526" -D_RTE_ -DMKL25Z128xxx4-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
+I (accelerometer.h)(0x5D1D15B5)
+I (C:\Keil_v5\ARM\PACK\Keil\Kinetis_KLxx_DFP\1.15.0\Device\Include\MKL25Z4.h)(0x585C16BA)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599F75EE)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include\core_cm0plus.h)(0x5B620B34)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include\cmsis_version.h)(0x5B1FD944)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5B58DE76)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5B620B34)
+I (.\RTE\Device\MKL25Z128xxx4\system_MKL25Z4.h)(0x5644B74A)
+I (i2c.h)(0x5CEEDC88)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x599F75EE)
+I (PIT.h)(0x5D0A8C77)
+I (UART.h)(0x5D1FA36D)
+I (C:\Keil_v5\ARM\ARMCC\include\String.h)(0x599F75EC)
+I (C:\Keil_v5\ARM\PACK\Keil\MDK-Middleware\7.7.0\Board\Board_LED.h)(0x58779A7C)
+I (Flash.h)(0x5D1D10B1)
+F (.\UART.c)(0x5D1FA4A7)(--c99 --gnu -c --cpu Cortex-M0+ -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\Device\MKL25Z128xxx4-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include-IC:\Keil_v5\ARM\PACK\Keil\Kinetis_KLxx_DFP\1.15.0\Device\Include-IC:\Keil_v5\ARM\PACK\Keil\MDK-Middleware\7.7.0\Board-D__UVISION_VERSION="526" -D_RTE_ -DMKL25Z128xxx4-o .\objects\uart.o --omf_browse .\objects\uart.crf --depend .\objects\uart.d)
+I (UART.h)(0x5D1FA36D)
+I (C:\Keil_v5\ARM\ARMCC\include\String.h)(0x599F75EC)
+I (C:\Keil_v5\ARM\PACK\Keil\Kinetis_KLxx_DFP\1.15.0\Device\Include\MKL25Z4.h)(0x585C16BA)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599F75EE)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include\core_cm0plus.h)(0x5B620B34)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include\cmsis_version.h)(0x5B1FD944)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5B58DE76)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5B620B34)
+I (.\RTE\Device\MKL25Z128xxx4\system_MKL25Z4.h)(0x5644B74A)
+I (PIT.h)(0x5D0A8C77)
+I (Flash.h)(0x5D1D10B1)
+F (.\accelerometer.h)(0x5D1D15B5)()
+F (.\i2c.h)(0x5CEEDC88)()
+F (.\UART.h)(0x5D1FA36D)()
+F (.\PIT.h)(0x5D0A8C77)()
+F (.\PIT.c)(0x5CF17A4A)(--c99 --gnu -c --cpu Cortex-M0+ -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\Device\MKL25Z128xxx4-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include-IC:\Keil_v5\ARM\PACK\Keil\Kinetis_KLxx_DFP\1.15.0\Device\Include-IC:\Keil_v5\ARM\PACK\Keil\MDK-Middleware\7.7.0\Board-D__UVISION_VERSION="526" -D_RTE_ -DMKL25Z128xxx4-o .\objects\pit.o --omf_browse .\objects\pit.crf --depend .\objects\pit.d)
+I (PIT.h)(0x5D0A8C77)
+I (C:\Keil_v5\ARM\PACK\Keil\Kinetis_KLxx_DFP\1.15.0\Device\Include\MKL25Z4.h)(0x585C16BA)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599F75EE)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include\core_cm0plus.h)(0x5B620B34)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include\cmsis_version.h)(0x5B1FD944)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5B58DE76)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5B620B34)
+I (.\RTE\Device\MKL25Z128xxx4\system_MKL25Z4.h)(0x5644B74A)
+F (.\Flash.c)(0x5D165EA4)(--c99 --gnu -c --cpu Cortex-M0+ -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\Device\MKL25Z128xxx4-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include-IC:\Keil_v5\ARM\PACK\Keil\Kinetis_KLxx_DFP\1.15.0\Device\Include-IC:\Keil_v5\ARM\PACK\Keil\MDK-Middleware\7.7.0\Board-D__UVISION_VERSION="526" -D_RTE_ -DMKL25Z128xxx4-o .\objects\flash.o --omf_browse .\objects\flash.crf --depend .\objects\flash.d)
+I (C:\Keil_v5\ARM\PACK\Keil\Kinetis_KLxx_DFP\1.15.0\Device\Include\MKL25Z4.h)(0x585C16BA)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599F75EE)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include\core_cm0plus.h)(0x5B620B34)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include\cmsis_version.h)(0x5B1FD944)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5B58DE76)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5B620B34)
+I (.\RTE\Device\MKL25Z128xxx4\system_MKL25Z4.h)(0x5644B74A)
+F (.\Flash.h)(0x5D1D10B1)()
+F (C:\Keil_v5\ARM\PACK\Keil\Kinetis_KLxx_DFP\1.15.0\Boards\NXP\FRDM-KL25Z\Common\LED_FRDM-KL25Z.c)(0x5644B74A)(--c99 --gnu -c --cpu Cortex-M0+ -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\Device\MKL25Z128xxx4-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include-IC:\Keil_v5\ARM\PACK\Keil\Kinetis_KLxx_DFP\1.15.0\Device\Include-IC:\Keil_v5\ARM\PACK\Keil\MDK-Middleware\7.7.0\Board-D__UVISION_VERSION="526" -D_RTE_ -DMKL25Z128xxx4-o .\objects\led_frdm-kl25z.o --omf_browse .\objects\led_frdm-kl25z.crf --depend .\objects\led_frdm-kl25z.d)
+I (C:\Keil_v5\ARM\PACK\Keil\Kinetis_KLxx_DFP\1.15.0\Device\Include\MKL25Z4.h)(0x585C16BA)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599F75EE)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include\core_cm0plus.h)(0x5B620B34)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include\cmsis_version.h)(0x5B1FD944)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5B58DE76)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5B620B34)
+I (.\RTE\Device\MKL25Z128xxx4\system_MKL25Z4.h)(0x5644B74A)
+I (C:\Keil_v5\ARM\PACK\Keil\MDK-Middleware\7.7.0\Board\Board_LED.h)(0x58779A7C)
+F (RTE\Device\MKL25Z128xxx4\startup_MKL25Z4.s)(0x5644B74A)(--cpu Cortex-M0+ --pd "__EVAL SETA 1" -g --apcs=interwork -I.\RTE\Device\MKL25Z128xxx4-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include-IC:\Keil_v5\ARM\PACK\Keil\Kinetis_KLxx_DFP\1.15.0\Device\Include-IC:\Keil_v5\ARM\PACK\Keil\MDK-Middleware\7.7.0\Board--pd "__UVISION_VERSION SETA 526" --pd "_RTE_ SETA 1" --pd "MKL25Z128xxx4 SETA 1"--list .\listings\startup_mkl25z4.lst --xref -o .\objects\startup_mkl25z4.o --depend .\objects\startup_mkl25z4.d)
+F (RTE\Device\MKL25Z128xxx4\system_MKL25Z4.c)(0x5644B74A)(--c99 --gnu -c --cpu Cortex-M0+ -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\Device\MKL25Z128xxx4-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include-IC:\Keil_v5\ARM\PACK\Keil\Kinetis_KLxx_DFP\1.15.0\Device\Include-IC:\Keil_v5\ARM\PACK\Keil\MDK-Middleware\7.7.0\Board-D__UVISION_VERSION="526" -D_RTE_ -DMKL25Z128xxx4-o .\objects\system_mkl25z4.o --omf_browse .\objects\system_mkl25z4.crf --depend .\objects\system_mkl25z4.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599F75EE)
+I (C:\Keil_v5\ARM\PACK\Keil\Kinetis_KLxx_DFP\1.15.0\Device\Include\MKL25Z4.h)(0x585C16BA)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include\core_cm0plus.h)(0x5B620B34)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include\cmsis_version.h)(0x5B1FD944)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5B58DE76)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5B620B34)
+I (.\RTE\Device\MKL25Z128xxx4\system_MKL25Z4.h)(0x5644B74A)
+F (RTE\Device\MKL25Z128xxx4\system_MKL25Z4.h)(0x5644B74A)()
